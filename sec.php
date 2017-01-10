@@ -11,11 +11,6 @@ if(!isset($_COOKIE[$cookie_name])) {
 echo "this is secure page"."<br />";
  
 echo " <input type='submit' name='login' value='logout' placeholder='enter password' onclick='logout()' /> ";
-function delete_user()
-{
-
-
-}
 
 ?>
 <script>
