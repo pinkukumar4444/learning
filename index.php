@@ -1,5 +1,10 @@
 <?php
+function addmem()
+{
 
+
+
+}
 echo " <form action='check.php' method='post'> " ;
 echo "username:<input type='text' name='user' id='a1' placeholder='enter user name' /> "."<br />";   
 echo "password:<input type='password' name='pass' id='a2' placeholder='enter password' /> "."<br />"; 
