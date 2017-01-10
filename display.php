@@ -37,6 +37,10 @@ function hero()
 function add()
 {
 }
+function sub()
+{
+
+}
 ?>
 <style>
 table, th, td {
